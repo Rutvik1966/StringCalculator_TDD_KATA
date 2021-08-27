@@ -1,0 +1,2 @@
+# StringCalculator_TDD_KATA
+Software Craftsperson
